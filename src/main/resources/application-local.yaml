@@ -1,0 +1,3 @@
+huggingface:
+  api:
+    key: ${HF_TOKEN:your_default_api_key_here}

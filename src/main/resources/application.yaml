@@ -1,3 +1,8 @@
 spring:
   application:
     name: spring-ai-practice
+  profiles:
+    active: local
+
+server:
+  port: 8080
