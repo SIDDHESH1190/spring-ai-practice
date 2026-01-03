@@ -1,0 +1,7 @@
+com\ai\practice\config\WebClientConfig.class
+com\ai\practice\service\IChatService.class
+com\ai\practice\model\ChatRequest.class
+com\ai\practice\controller\ChatController.class
+com\ai\practice\model\ChatResponse.class
+com\ai\practice\SpringAiPracticeApplication.class
+com\ai\practice\service\impl\OllamaServiceImpl.class
